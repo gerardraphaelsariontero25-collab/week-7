@@ -1,5 +1,3 @@
----
-
 **What Was Implemented This Week**
 
 This week, the team set up the frontend folder in the GitHub repository and built the HTML pages based on the use case diagram. All pages were styled with Bootstrap 5, and placeholders were prepared for the API connection. The updated /frontend folder was pushed to GitHub, with screenshots of the pages added in /docs/lab11.
